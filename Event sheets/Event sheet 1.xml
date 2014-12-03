@@ -163,5 +163,44 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="4373314773532833">
+            <conditions>
+                <condition id="6" name="On button pressed" sid="1963835630472952" type="Gamepad">
+                    <param id="0" name="Gamepad">0</param>
+                    <param id="1" name="Button">12</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="Platform" id="7" name="Simulate control" sid="7271420001710669" type="Player">
+                    <param id="0" name="Control">2</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="9266494337462363">
+            <conditions>
+                <condition id="6" name="On button pressed" sid="6137928155564415" type="Gamepad">
+                    <param id="0" name="Gamepad">0</param>
+                    <param id="1" name="Button">14</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="Platform" id="7" name="Simulate control" sid="7463239344471508" type="Player">
+                    <param id="0" name="Control">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="5665104042810046">
+            <conditions>
+                <condition id="6" name="On button pressed" sid="3072642406512508" type="Gamepad">
+                    <param id="0" name="Gamepad">0</param>
+                    <param id="1" name="Button">15</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="Platform" id="7" name="Simulate control" sid="9466280376705433" type="Player">
+                    <param id="0" name="Control">1</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

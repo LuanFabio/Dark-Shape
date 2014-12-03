@@ -2,7 +2,7 @@
 <c2project>
     <name>Dark Shape</name>
     <description></description>
-    <version>1.0.9</version>
+    <version>1.1.0</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -15,6 +15,7 @@
         <plugin author="Scirra" id="Text" version="1">Text</plugin>
         <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
         <plugin author="Scirra" id="Touch" version="1">Touch</plugin>
+        <plugin author="Scirra" id="gamepad" version="1">Gamepad</plugin>
     </used-plugins>
     <used-behaviors>
         <behavior author="Scirra" id="Bullet" version="1">Bullet</behavior>
@@ -95,6 +96,9 @@
         <object-type name="DistanceDisplay" sid="7250950328420495">
             <plugin id="Text" />
         </object-type>
+        <object-type name="Gamepad" sid="6310631534985382">
+            <plugin id="gamepad" />
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
@@ -110,6 +114,11 @@
             </properties>
         </global-instance>
         <global-instance type="Keyboard" uid="5" />
+        <global-instance type="Gamepad" uid="6">
+            <properties>
+                <analog-deadzone>25</analog-deadzone>
+            </properties>
+        </global-instance>
     </global-instances>
     <sounds-folder />
     <music-folder />
