@@ -2,7 +2,7 @@
 <c2project>
     <name>Dark Shape</name>
     <description></description>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -50,7 +50,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture />
+            <texture original-source="C:\Users\Daniell\Desktop\floor.png" />
         </object-type>
         <object-type name="Block" sid="8006445616045234">
             <plugin id="TiledBg" />
