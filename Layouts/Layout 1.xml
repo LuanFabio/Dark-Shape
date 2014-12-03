@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2layout>
     <name>Layout 1</name>
-    <sid>4043599096877075</sid>
+    <sid>220170410419869</sid>
     <event-sheet>Event sheet 1</event-sheet>
     <size>
         <width>630</width>
@@ -13,7 +13,7 @@
     </margins>
     <unbounded-scrolling>0</unbounded-scrolling>
     <layers>
-        <layer name="Background" sid="5731405812953896">
+        <layer name="Background" sid="4357627250182051">
             <initially-visible>1</initially-visible>
             <background-color>255,255,255</background-color>
             <transparent>0</transparent>
@@ -36,11 +36,11 @@
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
-                                <speed>400</speed>
+                                <speed>40</speed>
                                 <acceleration>0</acceleration>
                                 <gravity>0</gravity>
                                 <bounce-off-solids>No</bounce-off-solids>
-                                <set-angle>Yes</set-angle>
+                                <set-angle>No</set-angle>
                                 <initial-state>Enabled</initial-state>
                             </properties>
                         </behavior-instance>
@@ -48,11 +48,11 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>-1</x>
+                        <x>0</x>
                         <y>0</y>
                         <z>0</z>
-                        <width>631</width>
-                        <height>361</height>
+                        <width>1260</width>
+                        <height>360</height>
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
                         <hotspotY>0</hotspotY>
@@ -63,7 +63,7 @@
             </instances>
             <effects />
         </layer>
-        <layer name="Game" sid="1760908589865501">
+        <layer name="Game" sid="5205353352027481">
             <initially-visible>1</initially-visible>
             <background-color>255,255,255</background-color>
             <transparent>1</transparent>
@@ -156,7 +156,7 @@
             </instances>
             <effects />
         </layer>
-        <layer name="UI" sid="5590091881908907">
+        <layer name="UI" sid="1583730387400786">
             <initially-visible>1</initially-visible>
             <background-color>255,255,255</background-color>
             <transparent>1</transparent>

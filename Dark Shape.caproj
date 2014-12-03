@@ -2,7 +2,7 @@
 <c2project>
     <name>Dark Shape</name>
     <description></description>
-    <version>1.0.3</version>
+    <version>1.0.6</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -43,36 +43,36 @@
         <prop name="Use iOS retina display">iPhone only</prop>
     </configuration-settings>
     <object-folder>
-        <object-type name="TiledBackground" sid="9939068272365516">
+        <object-type name="TiledBackground" sid="7333162121453994">
             <plugin id="TiledBg" />
             <behaviors>
-                <behavior-type name="Bullet" sid="519847062904907">
+                <behavior-type name="Bullet" sid="4277795436128532">
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
             <texture original-source="C:\Users\Daniell\Desktop\floor.png" />
         </object-type>
-        <object-type name="Block" sid="8006445616045234">
+        <object-type name="Block" sid="509549320344725">
             <plugin id="TiledBg" />
             <behaviors>
-                <behavior-type name="Solid" sid="5171756668896574">
+                <behavior-type name="Solid" sid="5623348131640164">
                     <behavior id="solid" />
                 </behavior-type>
-                <behavior-type name="Bullet" sid="1626554274503084">
+                <behavior-type name="Bullet" sid="5451612177067902">
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
             <texture original-source="C:\Users\Daniell\Desktop\floor.png" />
         </object-type>
-        <object-type name="Player" sid="8347267276365263">
+        <object-type name="Player" sid="4356821091729968">
             <plugin id="Sprite" />
             <behaviors>
-                <behavior-type name="Platform" sid="3467170726567715">
+                <behavior-type name="Platform" sid="5873100901767732">
                     <behavior id="Platform" />
                 </behavior-type>
             </behaviors>
             <animation-folder>
-                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="3031645415879341" speed="5">
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="1767932823592187" speed="5">
                     <frame duration="1" hotspotX="0.52" hotspotY="0.514286" original-source="C:\Users\Daniell\Desktop\luan.png">
                         <collision-poly>
                             <point x="0.4" y="0.285714" />
@@ -88,13 +88,13 @@
                 </animation>
             </animation-folder>
         </object-type>
-        <object-type name="Touch" sid="5772792936161819">
+        <object-type name="Touch" sid="3104345879349365">
             <plugin id="Touch" />
         </object-type>
-        <object-type name="Keyboard" sid="9052731513272181">
+        <object-type name="Keyboard" sid="6852508328593676">
             <plugin id="Keyboard" />
         </object-type>
-        <object-type name="DistanceDisplay" sid="865912137386139">
+        <object-type name="DistanceDisplay" sid="7250950328420495">
             <plugin id="Text" />
         </object-type>
     </object-folder>
