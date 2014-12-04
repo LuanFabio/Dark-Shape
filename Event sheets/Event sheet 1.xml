@@ -48,7 +48,6 @@
         <comment>On any user input at all, make the character jump.</comment>
         <event-block any="1" sid="5486910792307001">
             <conditions>
-                <condition id="0" name="On any touch start" sid="3245206208778851" type="Touch" />
                 <condition id="1" name="On any key pressed" sid="2608864794461827" type="Keyboard" />
             </conditions>
             <actions>
