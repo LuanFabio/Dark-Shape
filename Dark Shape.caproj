@@ -2,7 +2,7 @@
 <c2project>
     <name>Dark Shape</name>
     <description></description>
-    <version>1.1.4</version>
+    <version>1.1.5</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -73,7 +73,7 @@
             </behaviors>
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="1767932823592187" speed="5">
-                    <frame duration="1" hotspotX="0.52" hotspotY="0.514286" original-source="C:\Users\Daniell\Desktop\luan.png">
+                    <frame duration="1" hotspotX="0.52" hotspotY="0.521127" original-source="C:\Users\Daniell\Desktop\luan.png">
                         <collision-poly>
                             <point x="0.42" y="0" />
                             <point x="0.68" y="0.0142862" />
