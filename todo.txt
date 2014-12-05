@@ -1,0 +1,22 @@
+Modo desafios
+Modo história
+Modo multiplayer com modos manobras, desafios e corrida (obstaculos gerados randonomicamente)
+menu Help e Records
+Modos: Powers, Race, Tricks
+Sistema de Distintivos e Troféis
+O skatista deve tomar cuidado para não se ferir e perder HP
+Campeonatos com Trófeu/Prêmio em Dinheiro. $1,00/R$2,00 a entrada em um campeonato.
+Exclusivo Cenário Sky
+Bate-Papo
+Clãs
+Cenário de ruas, com carros passando
+Photo & Vídeo Print+Replay
+Sistema de LVL
+Pista Transparent World
+Carros com Rampa para os skatistas
+Surf nas fases "Inferno" e "Sea" (Na fase inferno, somente tendo o Shape Shield)
+Fases "Adrenaline" e "Caxopa de Abelhas"
+Fase escura "Dark Flash"
+Criar Salas com Cenários e Modos de Jogo
+Skate Store: Compre e Crie Shapes, rolamentos, Personagens, Poderes, Cenários, etc.
+Tecnologia SGI (Dos graficos de Donkey Kong Country
