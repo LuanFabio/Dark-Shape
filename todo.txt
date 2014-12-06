@@ -19,4 +19,12 @@ Fase escura "Dark Flash"
 Criar Salas com Cenários e Modos de Jogo
 Skate Store: Compre e Crie Shapes, rolamentos, Personagens, Poderes, Cenários, etc. (comprados com dinheiro adquirido in-game nas versoes para consoles)
 Tecnologia SGI (Dos graficos de Donkey Kong Country
+Support to keyboard
+Better support to joystick
+Adaptability in smartphones
+Virtual on-screen buttons
+Adaptability in TVs
+Save games in JSON
+Support to 2 players with joystick
+Support to 2 players in net
 Campeonatos com Trófeu/Prêmio em Dinheiro. $1,00/R$2,00 a entrada em um campeonato. (esquece)
