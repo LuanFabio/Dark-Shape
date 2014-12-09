@@ -2,15 +2,16 @@
 <c2project>
     <name>Dark Shape</name>
     <description></description>
-    <version>1.1.5</version>
+    <version>1.1.6</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
     <app-id></app-id>
     <unique-id>mq4njje893h0</unique-id>
-    <saved-with-version>19000</saved-with-version>
+    <saved-with-version>19100</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
+        <plugin author="Scirra" id="NodeWebkit" version="1">Node-Webkit</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
         <plugin author="Scirra" id="Text" version="1">Text</plugin>
         <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
@@ -95,6 +96,9 @@
         <object-type name="Gamepad" sid="6310631534985382">
             <plugin id="gamepad" />
         </object-type>
+        <object-type name="NodeWebkit" sid="1295569956095139">
+            <plugin id="NodeWebkit" />
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
@@ -110,6 +114,7 @@
                 <analog-deadzone>25</analog-deadzone>
             </properties>
         </global-instance>
+        <global-instance type="NodeWebkit" uid="4" />
     </global-instances>
     <sounds-folder />
     <music-folder />
